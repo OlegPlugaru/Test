@@ -12,3 +12,7 @@ def translate(phrase):
     return translation
 
 print(translate(input("Enter a phrase: ")))
+
+
+
+#This is my first comment in python
